@@ -1,3 +1,5 @@
+This package is abandoned and no longer maintained. The author suggests using the [backup-manager/symfony](https://github.com/backup-manager/symfony) package instead.
+
 BackupManagerBundle
 ===================
 
